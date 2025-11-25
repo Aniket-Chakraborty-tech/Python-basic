@@ -73,7 +73,7 @@ There is no API reference available for this project, as it does not provide a R
 
 👤 Author
 --------
-The Hotel Management and Utility Project was created by [Your Name]. The project is open-source and available on GitHub.
+The Hotel Management and Utility Project was created by Aniket Chakraborty. The project is open-source and available on GitHub.
 
 📝 License
 --------
